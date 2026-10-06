@@ -2,25 +2,22 @@
 
 This is my submission for the Full Stack Engineering Intern take-home assignment.
 OneClickDesigner is a mini Generation Studio where users can pick a design template, fill in the required details, and get a gallery of product mockups.
-The form changes based on the schema provided by the backend, so the fields don't need to be hardcoded on the frontend. Once the user starts generation, the app simulates a 25-second process before showing the results.
+Once the user starts generation, the app simulates a 25-second process before showing the results.
 
 ![alt text](image.png)
 
 ## Getting Started
-Want to run the project locally? Here's how to get it up and running.
+Here's how to get it up and running.
 
 ### 1. Install the dependencies
 Open the project folder in your terminal and run:
-
-```
-npm install
+```npm install
 ```
 
 ### 2. Set up the environment variables
 You'll find an `.env.example` file inside both the `client/` and `server/` folders.
 
 Create an `.env` file in each folder using the corresponding example file and fill in the required values.
-
 The server runs on port `3000` by default, and the frontend connects to `http://localhost:3000`.
 
 ### 3. Run the project
