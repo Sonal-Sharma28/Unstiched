@@ -1,3 +1,15 @@
+# OneClickDesigner — Unstitched Task
+
+Hey! 👋
+
+This is my submission for the Full Stack Engineering Intern take-home assignment.
+
+OneClickDesigner is a mini Generation Studio where users can pick a design template, fill in the required details, and get a gallery of product mockups.
+
+The form changes based on the schema provided by the backend, so the fields don't need to be hardcoded on the frontend. Once the user starts generation, the app simulates a 25-second process before showing the results.
+
+![alt text](image.png)
+
 ## Getting Started
 Want to run the project locally? Here's how to get it up and running.
 
@@ -23,7 +35,7 @@ npm run dev
 ```
 This starts both the frontend and backend.
 
-Once they're running, head over to [http://localhost:5173](http://localhost:5173) in your browser, and you're good to go!
+Once they're running, head over to [http://localhost:5173](http://localhost:5173/) in your browser, and you're good to go!
 
 ## A Few Things I Thought About While Building This
 
@@ -61,6 +73,6 @@ I spent quite a bit of time on the smaller details, especially making sure the f
 ## Let's Connect!
 **Sonal Sharma**
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- Phone: +91 XXXXX XXXXX
+- Email: [sonalsharma2809@gmail.com](mailto:your-email@example.com)
+- Phone: +91 8850292075
 - GitHub: [Sonal-Sharma28](https://github.com/Sonal-Sharma28)
