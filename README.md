@@ -37,7 +37,7 @@ The project is structured as a simple monorepo containing both the React fronten
 3. **Client-side image resizing via Canvas**  
    To fulfill the requirement of resizing images to a maximum edge of 2048px before upload, I implemented a utility using `createImageBitmap` and an off-screen canvas. Doing this on the client side drastically reduces the payload size being sent to the server and avoids choking the Node event loop with heavy image processing.
 
-![alt text](image-1.png)
+
 
 ## One thing I would do differently with more time
 
